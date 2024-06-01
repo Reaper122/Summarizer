@@ -1,0 +1,1 @@
+This should resolve the issue by explicitly specifying the location of NLTK data, ensuring NLTK can find the necessary resources such as the stopwords corpus. If you're still facing issues, double-check that NLTK data is properly installed and accessible on your system.
